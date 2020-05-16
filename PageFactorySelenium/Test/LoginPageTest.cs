@@ -30,7 +30,7 @@ namespace PageFactoryExample.Test
         [Test]
         public void LoginTest()
         {
-            lgp.Login("recep971907@gmail.com", "Recep524726.");
+            lgp.Login("deneme123@gmail.com", "deneme123");
         }
         [TearDown]
         public void TearDown()
