@@ -30,7 +30,7 @@ namespace PageFactoryExample.Test
         [Test]
         public void AddTest()
         {
-            lp.Login("recep971907@gmail.com","Recep524726.");
+            lp.Login("test@gmail.com","test.");
             sp.Search("samsung");
             sp.Filter();
             ap.Add();
